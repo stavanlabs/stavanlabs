@@ -93,9 +93,9 @@ Stavan Labs aims to grow into a modern product ecosystem focused on:
 
 # 🤝 Connect
 
-- GitHub: https://github.com/yourusername
-- Portfolio: https://yourportfolio.com
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/stavanpathare
+- Portfolio: https://galaxyprofile.netlify.app
+- LinkedIn: https://linkedin.com/in/stavanpathare
 
 ---
 
